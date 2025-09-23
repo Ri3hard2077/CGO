@@ -1,0 +1,3 @@
+# Basis Python-modules voor CGO
+tkinter        # Voor de GUI (zit standaard in de meeste Python-installaties)
+psutil         # Voor hardware-informatie (CPU, RAM, GPU detectie)

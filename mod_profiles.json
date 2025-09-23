@@ -1,0 +1,18 @@
+{
+  "UltraPlus": {
+    "impact": "hoog",
+    "aanbeveling": "Gebruik alleen met high-end GPU"
+  },
+  "ReShade": {
+    "impact": "gemiddeld",
+    "aanbeveling": "Kan FPS verlagen met 10-15%"
+  },
+  "DLSS Enabler": {
+    "impact": "laag",
+    "aanbeveling": "Aanbevolen voor RTX-kaarten"
+  },
+  "OptiScaler": {
+    "impact": "laag",
+    "aanbeveling": "Goede balans tussen kwaliteit en performance"
+  }
+}
