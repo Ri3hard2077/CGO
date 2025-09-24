@@ -13,3 +13,6 @@ CGO helpt je om automatisch de beste instellingen te kiezen voor Cyberpunk 2077,
 
 ## Testen
 Gebruik `test_config.json` om veilig te experimenteren.
+
+## Auteur
+Ri3hard2077
