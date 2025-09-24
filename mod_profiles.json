@@ -14,5 +14,9 @@
   "OptiScaler": {
     "impact": "laag",
     "aanbeveling": "Goede balans tussen kwaliteit en performance"
-  }
+  },
+  "RayTracingUltra": {
+  "impact": "zeer hoog",
+  "aanbeveling": "Alleen gebruiken met de nieuwste RTX-kaarten"
+}
 }
